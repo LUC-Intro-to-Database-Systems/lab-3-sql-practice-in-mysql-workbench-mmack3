@@ -1,4 +1,4 @@
-# Lab 3 - SQL Practice in MySQL Workbench
+# Lab 3 - SQL Practice in MySQL Workbench!
 This lab will meet the following objectives:
 
 1.  Write SQL commands to create database objects such as tables, indexes, and views as well as commands to define access rights to those database objects.
