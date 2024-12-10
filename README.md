@@ -22,13 +22,17 @@ You will record your relationships within this readme file.  When writing down t
   3. Make sure all columns in the database are marked as NOT NULL
   4. Enforce that the relationship between **CLIENT** and **POLICY** are strong and enforce cascading if either a **CLIENT** or **POLICY** is deleted.
   5. Include the SQL commands used for creating the database and tables into the file you will use for deliverable 2.
+[Uploading Lab3.sql…]()
 
 
 ### Deliverable 2 - Data Manipulation Language (10 Points)
 Create a file called **lab3.sql** and add the following queries into the file.  You will need to take a screenshot of the rendered output for each command and place a screenshot of your output beneath the example output provided.  Make sure to place a SQL comment above each command identifying the query.  In order to make changes to the data, you may need to change the SQL Editor settings.  You can do this by navigating to EDIT -> SQL Editor -> and unchecking Safe Updates.  It is advised to restart MySQL Workbench after changing this setting.
 <br>First, write the SQL commands to insert data into each of the tables. Your insert statements should also be included in the lab2.sql file.  **The data files are listed in the repository for this lab**
+
 1.  Write the SQL command to list all clients and all the columns pertaining to a client.  The intended output is below.
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/1.PNG" width="350" alt="output query 1"/>
+
+
 2.  Write the SQL command to change client Chris Isaac to Chris Pearson.  No output for this command
 
 3.  Write the SQL command to display all policies that have a policy type of 'Home'.
@@ -69,6 +73,7 @@ List all clients along with their respective policies.<br>
 For this lab, you will submit 2 items to the repository that has been assigned to you.  The two items that you will need to submit are listed below: 
 1. The README.MD file that includes screenshots of the result grid window for each SQL query
    1. Include the image beneath the output image I provide
+[lab 3 screenshots.docx](https://github.com/user-attachments/files/18086096/lab.3.screenshots.docx)
 
 2. The **lab3.sql** file.  The lab3.sql file should be uploaded to your repository
 
